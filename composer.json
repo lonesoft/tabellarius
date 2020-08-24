@@ -1,0 +1,11 @@
+{
+    "name": "lonesoft/tabellarius",
+    "description": "Event Workflow",
+    "authors": [
+        {
+            "name": "Lorenzo",
+            "email": "lorenzomengon@gmail.com"
+        }
+    ],
+    "require": {}
+}
